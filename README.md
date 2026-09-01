@@ -72,7 +72,7 @@ Replaced a third-party agent framework powering Renmo's WhatsApp assistant. High
 - Durable outbox with exponential-backoff retry so replies survive crashes and transient Meta API failures
 - Multi-model fallback chain over Google Gemini with per-request timeouts and per-conversation turn serialisation
 - Golden-conversation regression suite replaying 32 recorded production conversations in CI, part of a 325-test suite
-- 👉 [Chat with RenmoBot on WhatsApp](https://wa.me/233539066050)
+- 👉 [Chat with RenmoBot on WhatsApp](https://wa.me/233244860766)
 
 **Smart Inventory & Order Management System** — Python, FastAPI, SQLAlchemy, MySQL, Celery, Redis, Docker
 Backend system for product/stock management and order tracking, with JWT auth and role-based access, containerized and deployed via Railway with GitHub Actions CI/CD.
